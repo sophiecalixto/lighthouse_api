@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "lighthouse": "^9.6.7"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}
